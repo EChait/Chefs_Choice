@@ -1,0 +1,199 @@
+#footer{
+    color: white;
+    background: linear-gradient(to right, burlywood 30%, #b87333);
+    font-size: 0.65em;
+    font-style: normal;
+    line-height: 30px;
+    text-align: center;
+     font-family: Verdana,Geneva,sans-serif;
+}
+
+
+head {
+    background:linear-gradient(to right, burlywood 30%, #b87333);
+}
+
+head h1 {
+    background: linear-gradient(to right, burlywood 30%, #b87333);
+    color: white;
+    font-size: 1em;
+    padding: 0px;
+    text-align: center;
+    border:none;
+}
+
+h1{
+    text-align: center;
+    font-family:Verdana,Geneva,sans-serif;
+    font-size: 50px;
+    color: black;
+     background: linear-gradient(to right, burlywood 30%, #b87333);
+   padding-left: 0px;
+   padding-right: 0px;
+}
+
+head h1 em {
+    font-size: 0.6em;
+    text-align:center;
+}
+body > header {
+        
+	margin: auto;
+	width: 100%;
+	overflow: hidden;
+         font-family: Verdana,Geneva,sans-serif;
+         background:linear-gradient(to right, burlywood 30%, #b87333);
+}
+.logo {
+  padding: 0px;
+  width: 150px;
+  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:linear-gradient(to right, burlywood 30%, #b87333);
+  font-family: Verdana,Geneva,sans-serif;
+      
+}
+h2{
+    text-align: center;
+    font-family:Verdana,Geneva,sans-serif;
+    font-size: 30px;
+    color: black;
+    background: linear-gradient(to right, burlywood 30%, #b87333);
+}
+h3, a{
+    text-align: center;
+    font-family:Verdana,Geneva,sans-serif;
+    font-size: 20px;
+    color: black;
+    background: linear-gradient(to right, burlywood 30%, #b87333);
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  border:10px;
+  border-color: black;
+}
+li > a:hover, a:active {
+  background-color: rgb(253, 0, 0);
+}
+body > header {
+	margin: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b47f03;
+}
+
+li {
+  float: left;
+  width: 16.66%;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li > a:hover, a:active {
+  background-color: #b46d03;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 100%;
+  background:linear-gradient(to right, burlywood 30%, #b87333);;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #b46d03;
+}
+
+form{
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+   font-family: Verdana,Geneva,sans-serif;
+}
+
+body{
+  font-family: Verdana,Geneva,sans-serif;  
+  font-size: 12px;
+    text-align:center;
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+ 
